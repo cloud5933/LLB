@@ -1,3 +1,4 @@
 discord
 dotenv
 nltk
+gunicorn
