@@ -1,4 +1,4 @@
-discord
-dotenv
-nltk
+python3 -m pip install -U discord.py
+pip3 install python-dotenv
+pip3 install nltk
 gunicorn
